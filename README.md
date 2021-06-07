@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/vi7/arduino-hardware-test.svg?branch=master)](https://travis-ci.com/vi7/arduino-hardware-test)
+
 Hardware test with Arduino framework
 ====================================
 
