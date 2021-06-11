@@ -11,3 +11,13 @@ Requirements
 ------------
 
 [PlatformIO](https://docs.platformio.org/en/latest/what-is-platformio.html)
+
+
+Usage
+-----
+
+Upload the code and verify that:
+* Built-in LED blinks with the pattern: ON -> 2s delay -> OFF -> 4s delay
+* LED state messages are printed to the Serial Monitor
+
+If the above is true it will mean that board passed basic test
